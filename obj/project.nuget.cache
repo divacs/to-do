@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "29NmRUI8DpARtCYpYyo40ykT1CkEteexAwvxfnBxU4rpeH+Kc4gaYXKmuKKmWENZjN0DLniPdgeGLLzYVIgGQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rss0136\\Desktop\\c-sharp-academy-mvc-01-todo-vsc-master\\Todo\\Todo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rss0136\\.nuget\\packages\\microsoft.data.sqlite\\6.0.10\\microsoft.data.sqlite.6.0.10.nupkg.sha512",
+    "C:\\Users\\rss0136\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
+    "C:\\Users\\rss0136\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\rss0136\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\rss0136\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\rss0136\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\rss0136\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
